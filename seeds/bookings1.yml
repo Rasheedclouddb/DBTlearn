@@ -1,0 +1,6 @@
+seeds:
+  - name: bookings
+    config:
+      column_types:
+         booking_time: time(9)
+         booking_timestamp: timestamp_ntz(9)

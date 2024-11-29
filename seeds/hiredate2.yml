@@ -1,0 +1,5 @@
+seeds:
+  - name: hiredate
+    config:
+      column_types:
+        Hire_date: DATE
