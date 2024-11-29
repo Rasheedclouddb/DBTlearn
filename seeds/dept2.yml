@@ -1,5 +1,5 @@
 seeds:
-  - name: DNO
+  - name: dept
     config:
       column_types:
         DNO: varchar(10)
