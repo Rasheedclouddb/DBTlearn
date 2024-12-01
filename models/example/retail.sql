@@ -1,1 +1,1 @@
-select * from ANALYTICS.RAW.customer
+select  * from customer
